@@ -19,7 +19,7 @@ int turn_speed = 20;
 int my_delay = 50;
 
 //=======================PD Control variables==============================
-float kp = 20;  // proportional term
+float kp = 30;  // proportional term
 float kd = 100;  // derivative term
 
 float old_error = 0;  
